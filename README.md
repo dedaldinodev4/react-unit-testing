@@ -1,6 +1,6 @@
 # Reactjs-Unit-Tests
-Implementação de testes unitários de maneira simples e prática com React.
-Testando alguns componentes criados.
+Implementation of unit tests in a simple and practical way with React.
+Testing some created components.
 
 ## Technologies
 * Vite 
