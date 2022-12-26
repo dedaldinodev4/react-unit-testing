@@ -27,6 +27,7 @@ export const Button: React.FC<IProps> = ({ variant, children}) => {
       onMouseEnter={onMouseEnter}
       onMouseLeave={onMouseLeave}
       title={status}
+      name="Submit"
     >
       { children }
     </button>
